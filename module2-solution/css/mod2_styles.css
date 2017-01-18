@@ -1,0 +1,54 @@
+
+*{
+	box-sizing: border-box;
+	font-family: serif;
+	
+}
+html{
+		margin:20px;
+	}
+
+div{
+		position: relative;
+
+	}
+
+h1{
+	text-align:center;
+	color: navy;
+	font-weight: bold;
+	font-size:1.75em;
+}
+h2{
+	
+	
+	float:right;
+    position: absolute;
+	top:0px;
+	right:0px;
+	border:1px solid black;
+	padding: 3px;
+	margin:0px;
+	font-size:1.25em;
+	font-weight: bold;
+	font-style: italic;
+}
+div.cont{
+	
+	background-color:teal ;
+	padding:10px 10px 10px 10px;
+	margin-right:10px;
+	margin-bottom:10px;
+
+	0px;
+	border:1px solid black;
+}
+ p{
+	position: relative;
+	top:20px;
+	clear:right;
+	}
+	div.main{
+		background-color: white !important;
+		border: 0px !important;
+	}
