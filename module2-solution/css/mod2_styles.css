@@ -33,6 +33,16 @@ h2{
 	font-weight: bold;
 	font-style: italic;
 }
+#h21{
+	background-color:purple;
+}
+#h22{
+	background-color:lime;
+}
+#h23{
+	background-color:red;
+}
+
 div.cont{
 	
 	background-color:teal ;
