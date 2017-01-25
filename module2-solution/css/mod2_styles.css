@@ -12,6 +12,9 @@ div{
 		position: relative;
 
 	}
+	.row{
+		height: auto !important;
+	}
 
 h1{
 	text-align:center;
@@ -49,6 +52,7 @@ div.cont{
 	padding:10px 10px 10px 10px;
 	margin-right:10px;
 	margin-bottom:10px;
+
 
 	0px;
 	border:1px solid black;
